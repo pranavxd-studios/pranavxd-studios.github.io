@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pranavxd-studios.github.io/sitemap.xml
